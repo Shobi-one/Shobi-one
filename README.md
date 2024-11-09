@@ -7,12 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shobi-one&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1665731537106705098/6A53E7087B85B1B93A8EE4DE06F3182D8131FF84/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
