@@ -1,6 +1,8 @@
-<h2 align="left">General Kenobi!</h2>
+# Hello There, I'm Obi Verheyen!
 
-###
+I'm a software developer and student Electronics-ICT in Odisee. 
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shobi-one&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -21,11 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
 </div>
 
-###
+---
 
 <div align="center">
-<a href="https://www.linkedin.com/in/obi-verheyen/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-<a href="https://x.com/Shobi_one"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/obi-verheyen/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://x.com/Shobi_one"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
-
-###
