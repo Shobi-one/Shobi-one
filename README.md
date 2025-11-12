@@ -34,7 +34,7 @@ I enjoy learning by building. You'll find coursework projects, experiments, and 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img
