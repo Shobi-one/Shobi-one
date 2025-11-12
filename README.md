@@ -5,9 +5,6 @@
 
 ---
 
-I enjoy learning by building. You'll find coursework projects, experiments, and things I’m curious about—ranging from low-level to high-level, from scripting to app development.
-
-- Always improving in: C#, C++, Python, Lua, HTML/CSS
 - Open to collaborating on beginner–intermediate projects
 - Best places to reach me are below
 
