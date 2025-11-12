@@ -24,10 +24,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JS" />
 </div>
 
 <!-- Text fallback for screen readers -->
-<p align="center"><sub>C#, C++, Python, Lua, HTML5, CSS3</sub></p>
+<p align="center"><sub>C#, C++, Python, Lua, HTML5, CSS3, JavaScript</sub></p>
 
 ---
 
