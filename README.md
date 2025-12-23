@@ -3,13 +3,6 @@
   <p><strong>Software/Game Developer</strong> • Electronics-ICT student @ <a href="https://www.odisee.be/en">Odisee</a></p>
 </div>
 
----
-
-- Open to collaborating on beginner–intermediate projects
-- Best places to reach me are below
-
----
-
 ### Techstack
 
 <div align="center">
