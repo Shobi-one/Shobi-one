@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello There! I'm Obi Verheyen 👋</h1>
+  <h1>Hello There! I'm Obi Verheyen</h1>
   <p><strong>Software/Game Developer</strong> • Electronics-ICT student @ <a href="https://www.odisee.be/en">Odisee</a></p>
   <p>
     Check out my <strong>professional portfolio</strong>: <a href="https://portfolio.obi.dev">portfolio.obi.dev</a><br/>
