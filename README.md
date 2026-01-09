@@ -2,8 +2,8 @@
   <h1>Hello There! I'm Obi Verheyen</h1>
   <p><strong>Software/Game Developer</strong> • Electronics-ICT student @ <a href="https://www.odisee.be/en">Odisee</a></p>
   <p>
-    Check out my <strong>professional portfolio</strong>: <a href="https://portfolio.obi.dev">portfolio.obi.dev</a><br/>
-    Explore my <strong>personal site</strong>: <a href="https://obi.dev">obi.dev</a>
+    Check out my <strong>professional portfolio</strong>: TBD
+    Explore my <strong>personal site</strong>: TBD
   </p>
 </div>
 
@@ -65,14 +65,14 @@
       alt="X (Twitter)"
     />
   </a>
-  <a href="https://portfolio.obi.dev">
+  <a href="TBD">
     <img
       src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=6f42c1&logoColor=white&labelColor=&style=for-the-badge"
       height="35"
       alt="Professional Portfolio"
     />
   </a>
-  <a href="https://obi.dev">
+  <a href="TBD">
     <img
       src="https://img.shields.io/static/v1?message=Personal+Site&logo=google-chrome&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge"
       height="35"
