@@ -1,10 +1,17 @@
 <div align="center">
-  <h1>Hello There! I'm Obi Verheyen.</h1>
+  <h1>Hello There! I'm Obi Verheyen 👋</h1>
   <p><strong>Software/Game Developer</strong> • Electronics-ICT student @ <a href="https://www.odisee.be/en">Odisee</a></p>
+  <p>
+    Check out my <strong>professional portfolio</strong>: <a href="https://portfolio.obi.dev">portfolio.obi.dev</a> 💼<br/>
+    Explore my <strong>personal site</strong> (extra, quirky, OEU vibes): <a href="https://obi.dev">obi.dev</a> 🌌
+  </p>
 </div>
+
+---
 
 ### Techstack
 
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" />
@@ -20,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JS" />
 </div>
 
-<!-- Text fallback for screen readers -->
 <p align="center"><sub>C#, C++, Python, Lua, HTML5, CSS3, JavaScript</sub></p>
 
 ---
@@ -40,6 +46,7 @@
   />
 </div>
 
+---
 
 ### Connect
 
@@ -56,6 +63,20 @@
       src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
       height="35"
       alt="X (Twitter)"
+    />
+  </a>
+  <a href="https://portfolio.obi.dev">
+    <img
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=6f42c1&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="Professional Portfolio"
+    />
+  </a>
+  <a href="https://obi.dev">
+    <img
+      src="https://img.shields.io/static/v1?message=Personal+Site&logo=google-chrome&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="Personal Website"
     />
   </a>
 </div>
