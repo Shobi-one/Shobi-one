@@ -3,7 +3,7 @@
   <p><strong>Software/Game Developer</strong> • Electronics-ICT student @ <a href="https://www.odisee.be/en">Odisee</a></p>
 </div>
 
-<div align="center">### Techstack
+### Techstack
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" />
   <img width="10" />
