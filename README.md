@@ -3,7 +3,7 @@
   <p><strong>Software/Game Developer</strong> • Electronics-ICT student @ <a href="https://www.odisee.be/en">Odisee</a></p>
   <p>
     Check out my <strong>professional portfolio</strong>: <a href="https://portfolio.obi.dev">portfolio.obi.dev</a> 💼<br/>
-    Explore my <strong>personal site</strong> (extra, quirky, OEU vibes): <a href="https://obi.dev">obi.dev</a> 🌌
+    Explore my <strong>personal site</strong>: <a href="https://obi.dev">obi.dev</a>
   </p>
 </div>
 
