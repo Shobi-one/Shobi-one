@@ -3,7 +3,6 @@
   <p><strong>Software/Game Developer</strong> • Electronics-ICT student @ <a href="https://www.odisee.be/en">Odisee</a></p>
   <p>
     Check out my <strong>professional portfolio</strong>: TBD <br>
-    Explore my <strong>personal site</strong>: TBD
   </p>
 </div>
 
@@ -70,13 +69,6 @@
       src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=6f42c1&logoColor=white&labelColor=&style=for-the-badge"
       height="35"
       alt="Professional Portfolio"
-    />
-  </a>
-  <a href="TBD">
-    <img
-      src="https://img.shields.io/static/v1?message=Personal+Site&logo=google-chrome&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge"
-      height="35"
-      alt="Personal Website"
     />
   </a>
 </div>
