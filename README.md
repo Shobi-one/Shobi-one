@@ -2,7 +2,7 @@
   <h1>Hello There! I'm Obi Verheyen</h1>
   <p><strong>Software/Game Developer</strong> • Electronics-ICT student @ <a href="https://www.odisee.be/en">Odisee</a></p>
   <p>
-    Check out my <strong>professional portfolio</strong>: TBD <br>
+    My <strong>portfolio</strong>: TBD <br>
   </p>
 </div>
 
