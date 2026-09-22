@@ -24,9 +24,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JS" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
 </div>
 
-<p align="center"><sub>C#, C++, Python, Lua, HTML5, CSS3, JavaScript</sub></p>
+<p align="center"><sub>C#, C++, Python, Lua, HTML5, CSS3, JavaScript, PHP</sub></p>
 
 ---
 
