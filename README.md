@@ -32,22 +32,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Shobi-one&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="160"
-    alt="GitHub stats for Shobi-one"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Shobi-one&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false"
-    height="160"
-    alt="Top languages used by Shobi-one"
-  />
-</div>
-
----
 
 ### Connect
 
